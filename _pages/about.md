@@ -12,7 +12,9 @@ Here is Junzhuo Li .
 
 I am a third-year master student at Tianjin University, guided by Prof. Deyi Xiong. My primary research interest is in Natural Language Processing and Artificial Intelligence. 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - hanlin[dot]cai[at]ieee[dot]org
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at -jzli[at]tju[dot]edu[dot]cn
+
+I am looking for PhD to start in 2024 Spring/Fall. Contact me if you have any leads!
 
 A data-driven personal website
 ======
