@@ -16,9 +16,15 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 I am looking for PhD to start in 2024 Spring/Fall. Contact me if you have any leads!
 
+News
+======
++ [10/2023] Our paper [DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models](https://arxiv.org/abs/2310.20138) and [Language Representation Projection: Can We Transfer Factual Knowledge across Languages in Multilingual Language Models?](https://arxiv.org/abs/2311.03788) were accepted to EMNLP2023.
+
 Publications
 ======
++ Xinwei Wu, **Junzhuo Li**, Minghui Xu, Weilong Dong, Shuangzhi Wu, Chao Bian, and Deyi Xiong. [DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models](https://arxiv.org/abs/2310.20138) In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (Volume 1: Long Papers), <!--pages 1–17,-->Singapore. Association for Computational Linguistics.
 
++ Shaoyang Xu, **Junzhuo Li**, and Deyi Xiong. [Language Representation Projection: Can We Transfer Factual Knowledge across Languages in Multilingual Language Models?](https://arxiv.org/abs/2311.03788) In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (Volume 2: Short Papers), <!--pages 1–17,-->Singapore. Association for Computational Linguistics.
 
 + Chuang Liu, **Junzhuo Li**, and Deyi Xiong. 2023. [Tab-CQA: A Tabular Conversational Question Answering Dataset on Financial Reports.](https://aclanthology.org/2023.acl-industry.20.pdf) In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 5: Industry Track), pages 196–207, Toronto, Canada. Association for Computational Linguistics.
 
