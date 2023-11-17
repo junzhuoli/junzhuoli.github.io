@@ -12,7 +12,7 @@ Here is Junzhuo Li .
 
 I am a third-year master student at Tianjin University, guided by Prof. Deyi Xiong. My primary research interest is in Natural Language Processing and Artificial Intelligence. 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at -jzli[at]tju[dot]edu[dot]cn
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - jzli[at]tju[dot]edu[dot]cn
 
 I am looking for PhD to start in 2024 Spring/Fall. Contact me if you have any leads!
 
@@ -29,6 +29,16 @@ Publications
 + Chuang Liu, **Junzhuo Li**, and Deyi Xiong. 2023. [Tab-CQA: A Tabular Conversational Question Answering Dataset on Financial Reports.](https://aclanthology.org/2023.acl-industry.20.pdf) In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 5: Industry Track), pages 196–207, Toronto, Canada. Association for Computational Linguistics.
 
 + **Junzhuo Li** and Deyi Xiong. 2022. [KaFSP: Knowledge-Aware Fuzzy Semantic Parsing for Conversational Question Answering over a Large-Scale Knowledge Base.](https://aclanthology.org/2022.acl-long.35.pdf) In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 461–473, Dublin, Ireland. Association for Computational Linguistics.
+
+
+Education
+======
+<!--
++ Ph.D. in Computer Science at University of California, Riverside (2023.9-now)
+-->
++ M.Sc. in Computer Technology at Tianjin University (2021.9-2024.1)
+
++ B.S. in Computer Science and Technology at Zhengzhou University (2017.9-2021.7)
 
 <!--
 A data-driven personal website
