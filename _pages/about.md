@@ -14,7 +14,7 @@ I am a third-year master student at Tianjin University, guided by Prof. [Deyi Xi
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - jzli[at]tju[dot]edu[dot]cn
 
-I am looking for PhD to start in 2024 Spring/Fall. Contact me if you have any leads!
+I expect to graduate from Tianjin U in January 2024 and I am looking for PhD to start in 2024 Spring/Fall. Contact me if you have any leads!
 
 News
 ======
