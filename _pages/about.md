@@ -30,6 +30,13 @@ Publications
 
 + **Junzhuo Li** and Deyi Xiong. 2022. [KaFSP: Knowledge-Aware Fuzzy Semantic Parsing for Conversational Question Answering over a Large-Scale Knowledge Base.](https://aclanthology.org/2022.acl-long.35.pdf) In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 461–473, Dublin, Ireland. Association for Computational Linguistics.
 
+Experience
+======
++ Quant Research Intern at Xuming Capital (2023.8-now)
+
++ Recommended Algorithm Intern at Meituan (2023.6-2023.7)
+
++ NLP Algorithm Intern at Bytedance (2022.1-2022.9)
 
 Education
 ======
