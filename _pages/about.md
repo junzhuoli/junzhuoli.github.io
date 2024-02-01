@@ -32,8 +32,6 @@ Publications
 
 Experience
 ======
-+ Quant Research Intern at Xuming Capital (2023.8-now)
-
 + Recommended Algorithm Intern at Meituan (2023.6-2023.7)
 
 + NLP Algorithm Intern at Bytedance (2022.1-2022.9)
