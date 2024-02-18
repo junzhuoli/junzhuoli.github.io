@@ -18,6 +18,7 @@ I expect to graduate from Tianjin U in January 2024 and I am looking for PhD to 
 
 News
 ======
++ [01/2024] I have graduated from Tianjin University.
 + [10/2023] Our paper [DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models](https://arxiv.org/abs/2310.20138) and [Language Representation Projection: Can We Transfer Factual Knowledge across Languages in Multilingual Language Models?](https://arxiv.org/abs/2311.03788) were accepted to EMNLP2023.
 
 Publications
