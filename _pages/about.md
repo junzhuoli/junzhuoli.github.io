@@ -23,6 +23,7 @@ If you're interested in collaborating 🤝, feel free to reach out via email: **
 ---
 
 ## 🔔 News
++ [08/2025] 🎉 Our paper *Multi-Domain MoE Adaptation* and *Internal Chain-of-Thought* was accepted to **EMNLP 2025** (Suzhou).
 + [05/2025] 🎉 Our paper *Decoding Knowledge Attribution in Mixture-of-Experts* was accepted to **ACL 2025** (Vienna).  
 + [01/2024] 🎓 Graduated from Tianjin University (M.Sc.).  
 + [10/2023] Our papers on **Privacy Neurons (DEPN)** and **Cross-lingual Knowledge Transfer** were accepted to **EMNLP 2023**.  
@@ -31,13 +32,21 @@ If you're interested in collaborating 🤝, feel free to reach out via email: **
 
 ## 📄 Publications  
 
-+ **Junzhuo Li**, Bo Wang, Xiuze Zhou, and Xuming Hu.
-  Dynamic Expert Specialization: Towards Catastrophic Forgetting-Free Multi-Domain MoE Adaptation.
-  *EMNLP 2025 (Long Papers)*, Suzhou, China. 
++ **Junzhuo Li**, Bo Wang, Xiuze Zhou, and Xuming Hu.  
+  *Dynamic Expert Specialization: Towards Catastrophic Forgetting-Free Multi-Domain MoE Adaptation*  
+  *EMNLP 2025 (Long Papers)*, Suzhou, China.  
+
++ Zhipeng Yang, **Junzhuo Li**, Siyu Xia, and Xuming Hu.  
+  *Internal Chain-of-Thought: Empirical Evidence for Layer-wise Subtask Scheduling in LLMs*  
+  *EMNLP 2025 (Long Papers)*, Suzhou, China.  
 
 + **Junzhuo Li**, Bo Wang, Xiuze Zhou, Peijie Jiang, Jia Liu, and Xuming Hu.  
   [Decoding Knowledge Attribution in Mixture-of-Experts: A Framework of Basic-Refinement Collaboration and Efficiency Analysis](https://aclanthology.org/2025.acl-long.1093/)  
-  *ACL 2025 (Long Papers)*, Vienna, Austria.  
+  *ACL 2025 (Long Papers)*, Vienna, Austria.
+
++ Yanggan Gu, **Junzhuo Li**, Sirui Huang, Xin Zou, Zhenghua Li, and Xuming Hu.  
+  [Capturing Nuanced Preferences: Preference-Aligned Distillation for Small Language Models](https://aclanthology.org/2025.findings-acl.822/)  
+  *Findings of ACL 2025*, Vienna, Austria. 
 
 + Xinwei Wu, **Junzhuo Li**, Minghui Xu, Weilong Dong, Shuangzhi Wu, Chao Bian, and Deyi Xiong.  
   [DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models](https://arxiv.org/abs/2310.20138)  
