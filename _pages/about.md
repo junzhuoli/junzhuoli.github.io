@@ -20,6 +20,8 @@ My research interests lie in **Natural Language Processing (NLP)** and **Large L
 
 If you're interested in collaborating 🤝, feel free to reach out via email: **jzli[at]tju[dot]edu[dot]cn** or **jz.li[at]connect.hkust-gz.edu.cn**  
 
+🚀 **I am actively seeking full-time opportunities in industry starting in 2027, focusing on LLM-related research and algorithm engineering.** 
+
 ---
 
 ## 🔔 News
